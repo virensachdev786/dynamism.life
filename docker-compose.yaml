@@ -1,0 +1,10 @@
+version: "3"
+services:
+  vm_one:
+    image: ubuntu:20.04
+    container_name: vm_one
+    command: ["tail", "-f", "/dev/null"]
+  vm_two:
+    image: ubuntu:20.04
+    container_name: vm_two
+    command: ["tail", "-f", "/dev/null"]
