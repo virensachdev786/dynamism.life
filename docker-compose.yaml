@@ -3,8 +3,8 @@ services:
   vm_one:
     image: ubuntu:20.04
     container_name: vm_one
-    command: ["tail", "-f", "/dev/null"]
+    command: sh -c "apt-get update && apt-get install -y python3 && tail -f /dev/null"
   vm_two:
     image: ubuntu:20.04
     container_name: vm_two
-    command: ["tail", "-f", "/dev/null"]
+    command: sh -c "apt-get update && apt-get install -y python3 && tail -f /dev/null"
