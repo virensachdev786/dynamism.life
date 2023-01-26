@@ -1,0 +1,14 @@
+	--TO DO--
+- 2 images 		[x]
+- install python	[x]
+- attatch volumes	[ ]
+- impliment short cmds	[ ]
+	- bin/up   [ ]
+	- bin/down [ ]
+	- etc.	   [ ]
+- impliment RAM monitor	[ ]
+- impliment py test	[ ]
+- RESEARCH pub-sub sys	[ ]
+- RESEARCH MQ sys	[ ]
+- RESEARCH net protocol [ ]
+
