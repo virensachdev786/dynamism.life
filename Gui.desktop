@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Dynamism.Life
+Comment=Dynamism.Life Application
+Terminal=false
+Exec=python3 /home/test/Desktop/Dynamism.Life/GUI.py &
+Icon=/home/test/Desktop/Dynamism.Life/pics/Dynamism.Life-1.1.png
+Type=Application
+Categories=Utility;
